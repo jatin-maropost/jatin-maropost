@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jatin Kamboj
 - 👀 I’m interested in FrontEnd, Backend and Decentralised apps.
-- 🌱 I’m currently learning Data Structures and aclogis in depth
+- 🌱 I’m currently learning Data Structures and algorithms in depth
 - 💞️ I’m looking to collaborate on Blockchain applications
 - 📫 How to reach me ...
 
