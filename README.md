@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd, Backend and Decentralised apps.
 - 🌱 I’m currently learning Data Structures and algorithms in depth
 - 💞️ I’m looking to collaborate on Blockchain applications
-- 📫 How to reach me ...
+- 📫 How to reach me jatinkmbj20@gmail.com
 
 <!---
 jatin-maropost/jatin-maropost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
